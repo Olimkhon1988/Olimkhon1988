@@ -9,3 +9,4 @@ print("2nd conflict")
 
 print('First conflict')
 
+print("New branch")
